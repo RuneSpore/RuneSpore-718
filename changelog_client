@@ -1,0 +1,5 @@
+### Client changelog ### v. 1.0.0
+
+- 11/7/2012 -
+* Compiler.bat is no longer supported and has been removed from the client source.
+* Some small changes to the  bar

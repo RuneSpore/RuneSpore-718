@@ -568,21 +568,21 @@ public class Tradution {
 				"Du wurdest permanent stumm geschaltet, da du gegen eine Regel versto\u00dfen hast.",
 				"L'acc\u00e8s \u00e0 la messagerie instantan\u00e9e vous a d\u00e9finitivement \u00e9t\u00e9 retir\u00e9 suite \u00e0 une infraction.",
 				"Voc\u00ea foi permanentemente vetado por ter violado uma regra."));
-		aClass470_5874 = new Tradution("Loading - please wait.",
+		aClass470_5874 = new Tradution("Initializing RuneSpore - Please wait...",
 				"Ladevorgang - bitte warte.",
 				"Chargement en cours. Veuillez patienter.",
 				"Carregando. Aguarde.");
-		aClass470_5789 = new Tradution("Profiling...", "Profiling...",
+		aClass470_5789 = new Tradution("...", "Profiling...",
 				"Profilage...", "Profiling...");
 		aClass470_5876 = new Tradution("Connection lost.",
 				"Verbindung abgebrochen.", "Connexion perdue.",
 				"Conex\u00e3o perdida.");
 		aClass470_5794 = (new Tradution(
-				"Please wait - attempting to reestablish.",
+				"Connection lost - attempting to reestablish.",
 				"Bitte warte - es wird versucht, die Verbindung wiederherzustellen.",
 				"Veuillez patienter - tentative de r\u00e9tablissement.",
 				"Tentando reestabelecer conex\u00e3o. Aguarde."));
-		aClass470_5878 = new Tradution("Checking for updates - ",
+		aClass470_5878 = new Tradution("Waiting for server respons - ",
 				"Suche nach Updates - ",
 				"V\u00e9rification des mises \u00e0 jour - ",
 				"Verificando atualiza\u00e7\u00f5es - ");
